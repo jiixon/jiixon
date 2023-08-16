@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
+<!--<div align="center">
   <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,3&reversal=true&height=200&text=jiixon%20github&fontAlign=50&animation=twinkling0&desc=Desc&descAlign=20" />
-</div>
+</div>-->
 <div align="center"><h3>Hi there 👋</h3></div>
 
 
