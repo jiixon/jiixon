@@ -17,7 +17,17 @@ Here are some ideas to get you started:
 <!--<div align="center">
   <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,3&reversal=true&height=200&text=jiixon%20github&fontAlign=50&animation=twinkling0&desc=Desc&descAlign=20" />
 </div>-->
-<div align="center"><h3>Hi there 👋</h3></div>
+<div align="center"><h2>Hi there 👋</h2></div>
+
+
+
+<h3 align="center"><b>💌 Social 💌 </b></h3>
+<div align="center">
+	<a href="mailto:jr0107380@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:jr0107380@gmail.com"/></a>
+	<a href="https://www.instagram.com/jiix_on" target="_blank">
+		<img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+</div><br>
+
 
 
 <div align=center>
