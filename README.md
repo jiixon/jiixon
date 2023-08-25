@@ -21,12 +21,17 @@ Here are some ideas to get you started:
 
 
 
-<h3 align="center"><b>💌 Social 💌 </b></h3>
+<h3 align="center"><b>💌 Social 💌</b></h3>
 <div align="center">
 	<a href="mailto:jr0107380@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:jr0107380@gmail.com"/></a>
 	<a href="https://www.instagram.com/jiix_on" target="_blank">
 		<img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </div><br>
+<!--
+<h3 align="center"><b>⛏️Tech Stack⛏️</b></h3>
+<div align="center">
+	<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=appveyor&logo=Spirng Boot&logoColor=white"/>
+</div><br>-->
 
 
 
