@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 	<a href="mailto:jr0107380@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:jr0107380@gmail.com"/></a>
 	<a href="https://www.instagram.com/jiix_on" target="_blank">
 		<img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+	<a href="https://jiixon.tistory.com/" target="_blank">
+		<img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 </div><br>
 <!--
 <h3 align="center"><b>⛏️Tech Stack⛏️</b></h3>
